@@ -1,0 +1,6 @@
+@rotasi_HostAddress = http://localhost:5167
+
+GET {{rotasi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
